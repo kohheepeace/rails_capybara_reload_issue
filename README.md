@@ -6,7 +6,10 @@ At that time, I modify the code and reload the browser.
 
 The reload time is very long and I would like to know the cause and how to improve it.
 
-https://github.com/kohheepeace/rails_capybara_reload_issue/assets/29557494/279de7e9-8075-4c03-ad0b-21d6614f71cc
+
+https://github.com/kohheepeace/rails_capybara_reload_issue/assets/29557494/07175d01-c976-40d8-b333-6a1f72e07f06
+
+
 
 
 ## Environment
